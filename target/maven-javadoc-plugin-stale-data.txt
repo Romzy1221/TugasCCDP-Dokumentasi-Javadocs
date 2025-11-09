@@ -1,0 +1,42 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+24
+-sourcepath
+'D:/Java/TugasCCDP/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Java/TugasCCDP/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'TugasCCDP 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'TugasCCDP 1.0-SNAPSHOT API'
+com.mycompany.tugasccdp
+D:\Java\TugasCCDP\src\main\java = 1762672312592
+D:\Java\TugasCCDP\target\reports\apidocs\allclasses-index.html = 1762675711540
+D:\Java\TugasCCDP\target\reports\apidocs\allpackages-index.html = 1762675711543
+D:\Java\TugasCCDP\target\reports\apidocs\element-list = 1762675711490
+D:\Java\TugasCCDP\target\reports\apidocs\help-doc.html = 1762675711569
+D:\Java\TugasCCDP\target\reports\apidocs\index-all.html = 1762675711558
+D:\Java\TugasCCDP\target\reports\apidocs\index.html = 1762675711565
+D:\Java\TugasCCDP\target\reports\apidocs\member-search-index.js = 1762675711548
+D:\Java\TugasCCDP\target\reports\apidocs\module-search-index.js = 1762675711544
+D:\Java\TugasCCDP\target\reports\apidocs\overview-tree.html = 1762675711528
+D:\Java\TugasCCDP\target\reports\apidocs\package-search-index.js = 1762675711546
+D:\Java\TugasCCDP\target\reports\apidocs\search.html = 1762675711562
+D:\Java\TugasCCDP\target\reports\apidocs\tag-search-index.js = 1762675711550
+D:\Java\TugasCCDP\target\reports\apidocs\type-search-index.js = 1762675711547
