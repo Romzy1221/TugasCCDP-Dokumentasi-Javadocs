@@ -1,3 +1,3 @@
 TugasCCDP-Dokumentasi-Javadocs
 
-path index.html -> target/reports/apidocs/index.html
+path javadocs -> target/reports/apidocs/
